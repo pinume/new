@@ -1,0 +1,6 @@
+{
+  "name": "Subsidy Data Processing",
+  "description": "国补（家电、数码）Excel 数据处理与对账系统，支持已上传数据、收款单统计、回款明细、审核明细、门店报表生成与配置管理",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
